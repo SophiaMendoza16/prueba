@@ -1,1 +1,3 @@
-Mi nombre es Angie 
+Bienvenidos al repositorio del Proyecto-Inventario.
+Este archivo contiene información general.
+Colaboradores: Sophia (creadora), Angie (colaboradora).
