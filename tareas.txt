@@ -1,5 +1,4 @@
 TAREAS - SISTEMA DE INVENTARIO
-
 1. Crear menu principal
 2. Añadir productos
 3. Actualizar stock
